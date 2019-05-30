@@ -30,16 +30,19 @@ A sample of 258 adults, enrolled in a standardized 8-week MBSR program between A
 
 ### Dataframe
 
-*MBSR_PRE*: 25 variables. Online assessment was completed the week before starting MBSR.
+*network_pre*: 25 variables. Online assessment was completed the week before starting MBSR.
 - **mindfulness** ="FFMQ_O","FFMQ_D","FFMQ_A","FFMQ_J","FFMQ_R" (5 subscales of Five-Facet Mindfulness Questionnaire-Short Form), "NAS","EQ","MAIA".
 - **compassion** = "SCS_A","SCS_H","SCS_M"(3 subscales of Self-Compassion Scale-Short Form),"CSP","IRI_E" (empathy subscale of Interpersonal Reactivity Index),
 - **psychologycal wellbeing** = "SWLS","LOT","PHI",
 - **psychologycal distress** = "DASS_S","DASS_D","DASS_A"(3 subsclaes of Depression Anxiety Stress Scales)
 - **Emotional and cognitive control** = "WBSI", "RRS_B", "RRS_R"(2 subsclale of Ruminative Response Style), "ERQ_R", "ERQ_S" (2 subscales of Emotion Regulation Questionnaire), "ACS"
 
-*MBSR_POST*: 25 variables. Online assessment was completed during the week after the end of the MBSR.
+*network_post*: 25 variables. Online assessment was completed during the week after the end of the MBSR.
 - **mindfulness** ="FFMQ_O","FFMQ_D","FFMQ_A","FFMQ_J","FFMQ_R" (5 subscales of Five-Facet Mindfulness Questionnaire-Short Form), "NAS","EQ","MAIA".
 - **compassion** = "SCS_A","SCS_H","SCS_M"(3 subscales of Self-Compassion Scale-Short Form),"CSP","IRI_E" (empathy subscale of Interpersonal Reactivity Index),
 - **psychologycal wellbeing** = "SWLS","LOT","PHI",
 - **psychologycal distress** = "DASS_S","DASS_D","DASS_A"(3 subsclaes of Depression Anxiety Stress Scales)
 - **Emotional and cognitive control** = "WBSI", "RRS_B", "RRS_R"(2 subsclale of Ruminative Response Style), "ERQ_R", "ERQ_S" (2 subscales of Emotion Regulation Questionnaire), "ACS"
+
+### Script of network analysis in R
+*MBSR_network_analysis.R* contains the analysis done in the paper and the supplementary material.
