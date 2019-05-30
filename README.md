@@ -1,5 +1,9 @@
 # MBSR_network_analysis
+[![DOI](https://zenodo.org/badge/189476141.svg)](https://zenodo.org/badge/latestdoi/189476141)
+
 ## Does mindfulness change the mind? A psychonectome perspective based on Network Analysis.
+Pablo Roca, Gustavo G. Diez, Nazareth Castellanos, Carmelo Vazquez
+
 The aim of this study was to examine the MBSR’s (Mindfulness Based Stress Reduction) impact on the network dynamics between mindfulness, compassion, well-being, psychological distress and emotional and cognitive control constructs, and how these constructs are reorganized after the intervention. Participants were asked to complete online (via Qualtrics software) the set of questionnaires described in detail below. The online assessment was completed the week before starting of the program (baseline assessment) and during the week after the end of the MBSR (post-assessment). The MBSR program consisted of 32-hour training during eight weeks, including a 3-hour initial orientation session, 7 weekly 2.5-hour of face-to-face sessions, an 8-hour intensive day of practice, 45 minutes of daily home formal and informal practices and a final 3.5-hour session. Training was conducted in groups of 20-30 participants. During the program, different mindfulness practices are performed, including focused attention on the breath, open monitoring of awareness in body-scanning, prosocial meditation (i.e. loving kindness and compassion) and gentle yoga.
 
 ## Sample description
