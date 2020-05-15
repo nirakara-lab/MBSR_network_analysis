@@ -50,3 +50,19 @@ A sample of 258 adults, enrolled in a standardized 8-week MBSR program between A
 
 ### Script of network analysis in R
 *MBSR_network_analysis.R* contains the analysis done in the paper and the supplementary material.
+
+### WARNING MISTAKE: 
+We have detected a mistake in the name of some variables in the database that was initially uploaded at Github (5/30/2019). Fortunately, this error does not affect the statistical analyses reported in the paper as they were done with the correct database.
+
+The data were correct, but the names of some variables were transposed in the file that was made available in Github. In hiding some columns on the identity of our participants, before making it public, some columns of data were accidentally displaced (e.g. the DASS-Anxiety erroneously had the data of the PHI).  This error occurred in the names from the IRI questionnaire, so it does not affect the FFMQ, NAS, EQ, MAIA, SCS, CSP and IRI questionnaires. 
+
+The file has been corrected and uploaded with those corrections in the labels of each variable. 
+
+If you have used this data before the date 05/15/2020, it could have affected your results. We apologize for any inconvenience that this mistake may have caused.
+
+We’ll be glad to respond any query about this mistake.
+
+Sincerely,
+The authors
+
+
